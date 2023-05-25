@@ -1,0 +1,12 @@
+.env
+uploads/*
+!uploads/.gitkeep
+
+# dependencies
+/node_modules
+
+# production
+/build
+
+# misc
+.DS_Store
